@@ -1,0 +1,4 @@
+name: SignEditTest
+version: 1.0
+author: JeromSar
+main: net.pravian.signedittest.SignEditTest
